@@ -1,5 +1,6 @@
 // 1.Em programação, o que é uma biblioteca?
-// R: Definição do código-fonte compilado na qual possibilita adicionar novas funções.
+// R: É o código-fonte compilado na qual possibilita adicionar novas funções.
+
 
 // 2.O que é a biblioteca Swing do Java e qual é o seu propósito?
 // R: É uma biblioteca para a criação de interfaces gráficas.
@@ -14,11 +15,11 @@ E)Botão de Opção = JOptionPane
 F)Caixa de Combinação = JComboBox
 
 // 4.Quais são os propósitos dos layouts no Swing? E quais são os layouts possíveis?
-// R: O principal propósito é a criação de interfaces gráficas e, além disso, a boa distribuição dos componentes na tela, de acordo com o desejo do programador. Os possíveis layout managers são: BorderLayout, BoxLayout, FlowLayout, GridLayout
+// R: Criação de interfaces gráficas. Os possíveis layout são: BorderLayout, BoxLayout, FlowLayout, GridLayout
 
 // 5.Como é possível fazer a validação de entrada de dados em campos de texto?
-// R: Usando uma if clause com a condição de validação logo após a leitura do texto e seu respecito armazenamento em uma variável.
+// R: Usando uma if clause e seu respectivo armazenamento em uma variável.
 
 // 7.Pesquise e descreva três principais características entre a biblioteca Swing, a biblioteca AWT (Abstract Window Toolkit) e o JavaFX?
-// R: Todos realizam a criação de interfaces gráficas, possuem posicionamento de componentes na tela independente da resolução da tela.
+// R: Todos realizam a criação de interfaces gráficas e possuem posicionamento de componentes na tela.
 
