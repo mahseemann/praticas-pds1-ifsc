@@ -7,11 +7,11 @@
 // 3.Quais são os componentes de interface gráfica de usuário (GUI) fornecidos pela biblioteca Swing para:
 // R:
 A)Botão
-B)Campo de Texto
-C)Caixa de Seleção
-D)Barra de Progresso
-E)Botão de Opção
-F)Caixa de Combinação
+B)Campo de Texto = JtextField
+C)Caixa de Seleção = JCheckBox
+D)Barra de Progresso = JProgressBar
+E)Botão de Opção = JOptionPane
+F)Caixa de Combinação = JComboBox
 
 // 4.Quais são os propósitos dos layouts no Swing? E quais são os layouts possíveis?
 // R:
